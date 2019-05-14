@@ -1,1 +1,10 @@
-# cahier_de_charge
+# CAHIER DES CHARGES
+
+## OBJECTIF
+
+## RISQUES, CONTRAINTES, EXIGENCES
+
+## LE RENDU
+
+
+QQOQCP
