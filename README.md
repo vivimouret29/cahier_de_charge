@@ -7,21 +7,30 @@
 ## LE RENDU
 
 
-QQOQCP
+### QQOQCP
+`Quoi  - objet, action, phase, opération.`
+`Qui - est concerné, acteur, responsable.`
+~~`Où - lieu, distance, étape.`~~
+`Quand - moment, planning, durée, fréquence.`
+`Comment - matériel, équipement, moyens nécessaires, manières, modalités, procédures.`
+`Pourquoi - motivations pour réaliser une telle action, respecter telle procédure...`
 
-Quand ?
-réalisation d'une première maquette d'ici début décembre 2001. en fonction du rendu de la maquette, le délai de réalisation sera écourté et une nouvelle entrevue sera probable si besoin.
+  Quoi ?
+Le cahier des charges nous explique que le projet est réparti en 3 lots importants. Nous allons devoir faire la création et le transfert d'un nom de domaine pour le site web AKE Michi sous `www.akemichi.fr`. Puis l'hébergement web se fera sous le service OVC Inc. où nous aurons accès via nos locaux.
 
-Où ?
-///
+  ~~Qui ?~~
 
-Quoi ?
-ne pas être redondant avec les sites LESO Scar ou AKE Michi ni être complémentaire avec les autres sites du groupe.
+**RACI**
+![RACI](./images/raci.PNG) 
 
-Comment ?
-///
+  Quand ?
+![GANNT](./images/gannt.PNG)
 
-Combien ?
-combien de temps nous aurez besoin et de combien de fonds avons-nous besoin pour développer le sujet
+  Comment ?
+Les moyens nécessaires qui seront employés au cours du projet s'établissent en trois catégories. 
+Nous aurons besoin de fonds sur le plan matériel, que ce soit pour les ordinateurs où des configurations peuvent être utilisées.
+Suivant les besoins matériels, nous devrons employer des ressources logistiques tels que des logiciels spécifiques aux serveurs, manipulations des du site web pour des optimisations suivantes.
+Sur ce projet, nous aurons en plus besoins des ressources humaines pour l'élaboration du projet en temps voulu, mais aussi pour la réactivité suites à d'éventuels problèmes.
 
-Pouruoi ?
+  Pourquoi ?
+Par le cahier des charges que vous nous avez fournis, nous comprennons que le site doit être créer pour une meilleure visibilité et compréhension pour vos clients. Nous souhaitons donc pouvoir comprendre vos moindres attentes afin de vous fournir un site adéquat.
