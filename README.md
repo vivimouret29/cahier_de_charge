@@ -15,7 +15,7 @@
     
 Le cahier des charges nous explique que le projet est réparti en deux lots importants.  
 Pour le premier lot, nous commencerons par créer et organiser les six premières pages puis les pages secondaires et les liens des autres sites associés à AKE Michi. Le permier lot est réparti sur une durée de 12 jours, plus les jours précédents le 1er Juillet afin de de vérifier et tester la fonctionnalité du lot.
-Ensuite pour le second lot, nous allons devoir faire la création et le transfert d'un nom de domaine pour le site web AKE Michi sous `www.akemichi.fr`. 
+Ensuite pour le second lot, nous allons devoir faire la création et le transfert d'un nom de domaine pour le site web AKE Michi sous `www.akemichi.fr`.  
 Nous vous proposons l'hébergement web sous le service OVH Inc. où nous aurons accès via nos locaux.  
 La plus grande partie du deuxième lot portera sur l'étude de la base de donnée et de sa création puis de son référencement des produits pour ensuite avoir accès à un moteur de recherche compris dans le site.  
 Durant le deuxième lot, nous créerons pour finir la page FAQ, la photothèque, la page Admin, la gestion de "l'info bulle", le plan de sécurité interactif ainsi que l'ajout de la fonctionnalité languistique que nous réaliserons du 1er Juillet au 16 Juillet. 
