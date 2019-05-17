@@ -27,6 +27,10 @@ Le cahier des charges nous explique que le projet est réparti en 3 lots importa
   
 ![GANNT](./images/gannt.PNG)
 
+  Combien ?  
+
+![scores](./images/tableaucout.PNG)  
+  
   Comment ?
     
 Les moyens nécessaires qui seront employés au cours du projet s'établissent en trois catégories. 
